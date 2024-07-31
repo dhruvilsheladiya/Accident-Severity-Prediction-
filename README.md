@@ -61,6 +61,8 @@ This data set is [Road Traffic Accidents](https://www.kaggle.com/saurabhshahane/
 * Simply run:    
     ```shell
     streamlit run app.py
+    -:otherwise:-
+    python3 -m streamlit run app.py
     ```
 
 
